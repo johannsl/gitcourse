@@ -2,7 +2,7 @@
 Mini git course fall 2017
 
 ### Task 0: prep
-0.0 Last ned git!
+0.0 Last ned git! \n
 0.1 Lag en bruker på github.com og naviger til github.com/johannsl/gitcourse (check ;)).
 
 ### Task 1: clone
