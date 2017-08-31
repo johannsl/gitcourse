@@ -1,5 +1,8 @@
 Aslak sin gruppe 9 fil
+<<<<<<< HEAD
+=======
 pfffff
 
 Hva har vi lært så langt i prosjektarbeid?
 Jo, at i ethvert prosjekt, så fins der en marshmallow
+>>>>>>> f1dde77ccea65b6fdf6fc0b71bd2a029176dcffd
