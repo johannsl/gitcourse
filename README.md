@@ -1,3 +1,9 @@
+#GRUPPE 12
+
+DETTE ER EN BRANCH HVOR KUN SKIKKELIGE GRUPPER ER TILLATT
+
+
+
 # gitcourse
 Mini git course fall 2017
 
